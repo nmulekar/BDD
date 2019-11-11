@@ -198,6 +198,8 @@ public class AddUserStepDefinition {
 		}
 
 		driver.close();
+		
+		System.out.println("Git Trial");
 	}
 
 }
